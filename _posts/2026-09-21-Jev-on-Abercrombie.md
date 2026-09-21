@@ -3,7 +3,7 @@ layout: post
 title: Trying out TypeSafe's Jev on a legaltech benchmark
 ---
 
-Last week (typesafe.ai) introduced Jev, a model designed to take textual prompts as input and produce structured output.
+Last week [TypeSafe](typesafe.ai) introduced Jev, a model designed to take textual prompts as input and produce structured output.
 Jev is advertised as being faster and cheaper than other frontier models in this restricted environment.
 
 A lot of my current responsibilities at my [day job](https://www.bloomberg.com/) involve evaluation and benchmarking of
